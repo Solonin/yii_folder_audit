@@ -7,3 +7,5 @@ yii_folder_audit
 
 База наполняется посредством Powershell скриптов.
 Скрипты запрашивают информацию из ActiveDirectory.
+
+![Alt text](https://github.com/Solonin/yii_folder_audit/blob/main/2.png?raw=true "Title")
